@@ -5,7 +5,41 @@ This project aims to predict algae density using deep learning models built with
 ---
 
 ## 📁 Project Structure
+🔍 Features
+✅ Regression modeling with PyTorch
 
+✅ Multivariate environmental inputs
+
+✅ Custom loss functions and model structure
+
+✅ Clean visualizations using matplotlib and seaborn
+
+✅ Outputs suitable for academic figures and publication
+
+📊 Sample Visualization
+You’ll find plots showing relationships between environmental factors and algae density, including:
+
+2D correlation graphs
+
+3D surface interaction plots
+
+Model training loss curves
+
+Example:
+
+
+🧪 Requirements
+Python 3.8+
+
+PyTorch
+
+pandas
+
+matplotlib
+
+seaborn
+
+scikit-learn
 
 ---
 
