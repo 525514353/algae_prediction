@@ -54,3 +54,5 @@ cd algae_prediction
 Developed by @525514353@qq.com
 For questions or collaboration ideas, feel free to open an issue.
 
+### 1. Data Acquisition
+visit our website: https://zhihuang.pythonanywhere.com/ for Data Acquisition
